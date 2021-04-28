@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.edit-link{
+  color: #0062cc;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
